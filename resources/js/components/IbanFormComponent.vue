@@ -29,8 +29,6 @@ export default {
         }
       },
         submitForm() {
-            console.log('selectedEcoCode:', this.selectedEcoCode);
-            console.log('selectedChild:', this.selectedChild);
             axios.post('/api/index-iban', {
                 eco_code: this.selectedEcoCode,
                 local_code: this.selectedChild,
