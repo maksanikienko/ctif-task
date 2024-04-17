@@ -8,7 +8,7 @@
 
     @section('title', 'Generarea codului IBAN pentru încasări | Ministerul Finanțelor')
 
-    @vite(['resources/css/app.css','resources/js/app.js'])
+    @vite(['resources/js/main-app.js'])
 
 
 </head>
