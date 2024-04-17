@@ -17,7 +17,11 @@
 - sail install
 - npm install
 - npm run build
+- sail up -d
 - sail artisan key:generate
 - sail artisan migrate
 - sail artisan jwt:seed
 - sail artisan db:seed
+- http://127.0.0.1:8030/api/app    -main page
+- http://127.0.0.1:8030/api/auth   -authentification
+- http://127.0.0.1:8030/api/admin  -admin panel
