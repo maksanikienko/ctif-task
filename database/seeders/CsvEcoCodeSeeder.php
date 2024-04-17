@@ -14,7 +14,7 @@ class CsvEcoCodeSeeder extends Seeder
      */
     public function run()
     {
-        $file = storage_path('app/eco_codes.csv');
+        $file = storage_path('eco_codes.csv');
 
         if (($handle = fopen($file, 'r')) !== false) {
             $batchSize = 1000;

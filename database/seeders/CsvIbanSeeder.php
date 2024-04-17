@@ -15,7 +15,7 @@ class CsvIbanSeeder extends Seeder
      */
     public function run()
     {
-        $file = storage_path('app/iban_2024.csv');
+        $file = storage_path('iban_2024.csv');
 
         if (($handle = fopen($file, 'r')) !== false) {
             $batchSize = 1000;

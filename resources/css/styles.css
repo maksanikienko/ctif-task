@@ -1,16 +1,6 @@
 
 
-
-
-
-
-
-
-
-
      @import url("https://mf.gov.md/sites/all/themes/egov_theme/css/overrides.css?sbgvlj");
-
-
      @import url("https://mf.gov.md/sites/all/themes/omega/alpha/css/alpha-reset.css?sbgvlj");
      @import url("https://mf.gov.md/sites/all/themes/omega/alpha/css/alpha-mobile.css?sbgvlj");
      @import url("https://mf.gov.md/sites/all/themes/omega/alpha/css/alpha-alpha.css?sbgvlj");
@@ -20,33 +10,23 @@
      @import url("https://mf.gov.md/sites/all/themes/omega/omega/css/omega-forms.css?sbgvlj");
      @import url("https://mf.gov.md/sites/all/themes/omega/omega/css/omega-visuals.css?sbgvlj");
      @import url("https://mf.gov.md/sites/all/themes/egov_theme/css/global.css?sbgvlj");
-
      @import url("https://mf.gov.md/sites/all/themes/omega/alpha/css/grid/alpha_default/normal/alpha-default-normal-12.css?sbgvlj");
      @import url("https://mf.gov.md/sites/all/themes/omega/alpha/css/grid/alpha_default/normal/alpha-default-normal-16.css?sbgvlj");
-
-@import url("https://mf.gov.md/modules/system/system.base.css?sbgvlj");
-@import url("https://mf.gov.md/modules/system/system.menus.css?sbgvlj");
-@import url("https://mf.gov.md/modules/system/system.messages.css?sbgvlj");
-@import url("https://mf.gov.md/modules/system/system.theme.css?sbgvlj");
-
-@import url("https://mf.gov.md/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?sbgvlj");
-@import url("https://mf.gov.md/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.button.min.css?sbgvlj");
-@import url("https://mf.gov.md/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.resizable.min.css?sbgvlj");
-@import url("https://mf.gov.md/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.dialog.min.css?sbgvlj");
-
-@import url("https://mf.gov.md/sites/all/modules/calendar/css/calendar_multiday.css?sbgvlj");
-@import url("https://mf.gov.md/sites/all/modules/calendar_tooltips/calendar_tooltips.css?sbgvlj");
-
-@import url("https://mf.gov.md/sites/all/libraries/mmenu/main/src/css/jquery.mmenu.all.css?sbgvlj");
-
-
-
-@import url("https://mf.gov.md/sites/all/themes/omega/alpha/css/grid/alpha_default/fluid/alpha-default-fluid-12.css?sbgvlj");
-@import url("https://mf.gov.md/sites/all/themes/omega/alpha/css/grid/alpha_default/fluid/alpha-default-fluid-16.css?sbgvlj");
-@import url("https://mf.gov.md/sites/all/themes/omega/alpha/css/grid/alpha_default/narrow/alpha-default-narrow-12.css?sbgvlj");
-@import url("https://mf.gov.md/sites/all/themes/omega/alpha/css/grid/alpha_default/narrow/alpha-default-narrow-16.css?sbgvlj");
-
-
+    @import url("https://mf.gov.md/modules/system/system.base.css?sbgvlj");
+    @import url("https://mf.gov.md/modules/system/system.menus.css?sbgvlj");
+    @import url("https://mf.gov.md/modules/system/system.messages.css?sbgvlj");
+    @import url("https://mf.gov.md/modules/system/system.theme.css?sbgvlj");
+    @import url("https://mf.gov.md/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?sbgvlj");
+    @import url("https://mf.gov.md/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.button.min.css?sbgvlj");
+    @import url("https://mf.gov.md/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.resizable.min.css?sbgvlj");
+    @import url("https://mf.gov.md/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.dialog.min.css?sbgvlj");
+    @import url("https://mf.gov.md/sites/all/modules/calendar/css/calendar_multiday.css?sbgvlj");
+    @import url("https://mf.gov.md/sites/all/modules/calendar_tooltips/calendar_tooltips.css?sbgvlj");
+    @import url("https://mf.gov.md/sites/all/libraries/mmenu/main/src/css/jquery.mmenu.all.css?sbgvlj");
+    @import url("https://mf.gov.md/sites/all/themes/omega/alpha/css/grid/alpha_default/fluid/alpha-default-fluid-12.css?sbgvlj");
+    @import url("https://mf.gov.md/sites/all/themes/omega/alpha/css/grid/alpha_default/fluid/alpha-default-fluid-16.css?sbgvlj");
+    @import url("https://mf.gov.md/sites/all/themes/omega/alpha/css/grid/alpha_default/narrow/alpha-default-narrow-12.css?sbgvlj");
+    @import url("https://mf.gov.md/sites/all/themes/omega/alpha/css/grid/alpha_default/narrow/alpha-default-narrow-16.css?sbgvlj");
     @import url("https://mf.gov.md/sites/all/themes/omega/alpha/css/grid/alpha_default/wide/alpha-default-wide-12.css?sbgvlj");
     @import url("https://mf.gov.md/sites/all/themes/omega/alpha/css/grid/alpha_default/wide/alpha-default-wide-16.css?sbgvlj");
 

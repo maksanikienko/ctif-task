@@ -1,7 +1,6 @@
-import './bootstrap';
+
 import './jquery-2.1.4.min';
 import './../css/select2.css';
-import './select2.min';
 import './../css/styles.css';
 
 import {createApp} from 'vue';

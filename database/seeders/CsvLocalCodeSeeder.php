@@ -14,7 +14,7 @@ class CsvLocalCodeSeeder extends Seeder
      */
     public function run()
     {
-        $file = storage_path('app/locality.csv');
+        $file = storage_path('locality.csv');
 
         if (($handle = fopen($file, 'r')) !== false) {
             $batchSize = 1000;
